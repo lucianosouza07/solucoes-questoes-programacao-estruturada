@@ -1,76 +1,76 @@
-\# Soluções para Exercícios de Programação Estruturada em C
+# Soluções para Exercícios de Programação Estruturada em C
 
 
 
-Este repositório contém soluções em C99 para os exercícios das listas do pdf \*\*"Lista de Exercicios - Programação Estruturada"\*\*, que aborda conceitos fundamentais de programação estruturada, como entrada/saída, estruturas condicionais, repetição, vetores, matrizes e manipulação de dados.
+Este repositório contém soluções em C99 para os exercícios das listas do pdf **"Lista de Exercicios - Programação Estruturada"**, que aborda conceitos fundamentais de programação estruturada, como entrada/saída, estruturas condicionais, repetição, vetores, matrizes e manipulação de dados.
 
 
 
-\## 📚 Conteúdo das Listas de Exercícios
+## 📚 Conteúdo das Listas de Exercícios
 
 
 
-\### \*\*Lista 1\*\* – Fundamentos e Operações Básicas
+### **Lista 1** – Fundamentos e Operações Básicas
 
-\- Soma de números
+- Soma de números
 
-\- Cálculo de média
+- Cálculo de média
 
-\- Manipulação de valores inteiros
+- Manipulação de valores inteiros
 
-\- Conversão de unidades
+- Conversão de unidades
 
-\- Condicionais simples e compostas
-
-
-
-\### \*\*Lista 2\*\* – Estruturas de Repetição e Controle
-
-\- Menor valor de um conjunto
-
-\- Soma de ímpares em intervalo
-
-\- Tabuada, fatorial e sequência de Fibonacci
-
-\- Análise de dados com finalizador (`-1`, `"fim"`, etc.)
+- Condicionais simples e compostas
 
 
 
-\### \*\*Lista 3\*\* – Vetores
+### **Lista 2** – Estruturas de Repetição e Controle
 
-\- Operações básicas com vetores
+- Menor valor de um conjunto
 
-\- Intercalação, busca, remoção de duplicatas
+- Soma de ímpares em intervalo
 
-\- Substituição, inversão e ordenação
+- Tabuada, fatorial e sequência de Fibonacci
 
-
-
-\### \*\*Lista 4\*\* – Matrizes
-
-\- Soma, multiplicação e produto de matrizes
-
-\- Busca de elementos
-
-\- Cálculo de diagonais e transposição
-
-\- Aplicação prática: loteria esportiva
+- Análise de dados com finalizador (`-1`, `"fim"`, etc.)
 
 
 
-\## Tecnologias Utilizadas
+### **Lista 3** – Vetores
+
+- Operações básicas com vetores
+
+- Intercalação, busca, remoção de duplicatas
+
+- Substituição, inversão e ordenação
 
 
 
-\- Linguagem: \*\*C99\*\*
+### **Lista 4** – Matrizes
 
-\- Compilador recomendado: `gcc`
+- Soma, multiplicação e produto de matrizes
 
-\- Ambiente de desenvolvimento: Dev C++
+- Busca de elementos
+
+- Cálculo de diagonais e transposição
+
+- Aplicação prática: loteria esportiva
 
 
 
-\## Como Compilar e Executar
+## Tecnologias Utilizadas
+
+
+
+- Linguagem: **C99**
+
+- Compilador recomendado: `gcc`
+
+- Ambiente de desenvolvimento: Dev C++
+
+
+
+## Como Compilar e Executar
 
 
 
@@ -102,23 +102,23 @@ gcc -o programa arquivo.c
 
 
 
-\## Considerações sobre as Soluções
+## Considerações sobre as Soluções
 
 
 
-\- Todas as soluções foram implementadas em \*\*C99\*\*.
+- Todas as soluções foram implementadas em **C99**.
 
-\- O código segue boas práticas de legibilidade e modularidade.
+- O código segue boas práticas de legibilidade e modularidade.
 
-\- Entrada e saída são realizadas via console (`stdio.h`).
+- Entrada e saída são realizadas via console (`stdio.h`).
 
-\- Validações básicas de entrada foram incluídas quando pertinente.
+- Validações básicas de entrada foram incluídas quando pertinente.
 
-\- Os exercícios envolvendo finalizadores (`0`, `-1`, `"fim"`) foram tratados com estruturas de repetição adequadas.
+- Os exercícios envolvendo finalizadores (`0`, `-1`, `"fim"`) foram tratados com estruturas de repetição adequadas.
 
 
 
-\## Observações
+## Observações
 
 
 
@@ -127,9 +127,8 @@ gcc -o programa arquivo.c
 
 
 
-\## Licença
+## Licença
 
 
 
 Este repositório é destinado a fins educacionais. Sinta-se à vontade para usar, modificar e distribuir as soluções, desde que mencionada a fonte.
-
