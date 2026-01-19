@@ -6,7 +6,7 @@ Este repositório contém soluções em C99 para os exercícios das listas do pd
 
 
 
-## 📚 Conteúdo das Listas de Exercícios
+## Conteúdo das Listas de Exercícios
 
 
 
@@ -132,3 +132,4 @@ gcc -o programa arquivo.c
 
 
 Este repositório é destinado a fins educacionais. Sinta-se à vontade para usar, modificar e distribuir as soluções, desde que mencionada a fonte.
+
